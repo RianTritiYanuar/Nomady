@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nomady_splash_screen.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\nomady_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_launch_screen.xml.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nomady_splash_screen.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\drawable-xhdpi\\nomady_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nomady_splash_screen.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\drawable-xxhdpi\\nomady_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nomady_splash_screen.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\drawable-mdpi\\nomady_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nomady_splash_screen.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\drawable-hdpi\\nomady_splash_screen.png"
+    },
+    {
+        "merged": "D:\\Private\\React Native\\Nomady\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Private\\React Native\\Nomady\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

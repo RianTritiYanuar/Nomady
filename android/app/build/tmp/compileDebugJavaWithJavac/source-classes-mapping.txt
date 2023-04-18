@@ -1,0 +1,14 @@
+com/nomady/ReactNativeFlipper.java
+ com.nomady.ReactNativeFlipper
+ com.nomady.ReactNativeFlipper$1
+ com.nomady.ReactNativeFlipper$2
+ com.nomady.ReactNativeFlipper$2$1
+com/nomady/MainApplication.java
+ com.nomady.MainApplication
+ com.nomady.MainApplication$1
+com/nomady/BuildConfig.java
+ com.nomady.BuildConfig
+com/nomady/MainActivity.java
+ com.nomady.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
